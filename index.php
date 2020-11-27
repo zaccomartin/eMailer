@@ -1,4 +1,5 @@
 <head>
+    <meta charset="utf-8">
     <title>eMailer</title>
 </head>
 <style type="text/css">
